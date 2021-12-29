@@ -9,3 +9,7 @@ This is a simple project
 Sample website with plenty of files for demos
 
 ## Deployment
+
+## Intro
+
+This is a small example
