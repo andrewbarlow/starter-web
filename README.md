@@ -8,7 +8,11 @@ This is a simple project
 
 Sample website with plenty of files for demos
 
+main purpose is to provide examples.
+
 ## Deployment
+
+This is a simple web project
 
 ## Intro
 
