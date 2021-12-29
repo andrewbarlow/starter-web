@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-This is a simple project
+This is a simple project. Adding aline for rebasing
 
 ## Purpose
 
