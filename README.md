@@ -17,3 +17,7 @@ This is a simple web project
 ## Intro
 
 This is a small example
+
+### Copyright
+
+2014 Git.Training.
