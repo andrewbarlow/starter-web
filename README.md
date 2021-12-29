@@ -8,6 +8,8 @@ then more changes
 
 emergency fix
 
+Multi-stash example
+
 ## Purpose
 
 Sample website with plenty of files for demos
